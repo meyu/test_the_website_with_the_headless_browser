@@ -1,0 +1,20 @@
+{
+  "要進行的登入操作": {
+    "是否要進行": true,
+    "要操作的頁面": "https://example.com/login",
+    "要使用的帳號": "my_account",
+    "要使用的密碼": "my_password",
+    "帳號的selector": "#account_input",
+    "密碼的selector": "#password_input",
+    "登入觸發的selector": "#submit_button",
+    "成功登入後的頁面為": "https://example.com/user"
+  },
+  "要瀏覽的頁面們": [
+    "https://example.com/page1",
+    "https://example.com/page2",
+    "https://example.com/page3"
+  ],
+  "操作紀錄存檔路徑": "browse.log",
+  "特殊即時觀測檔存檔路徑": "browse.error.log",
+  "同時進行幾個": 1
+}

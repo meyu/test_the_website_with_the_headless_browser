@@ -1,0 +1,12 @@
+{
+  "pkg": {
+    "targets": [
+      "node18-win-x64"
+    ],
+    "outputPath": "dist"
+  },
+  "dependencies": {
+    "edge-paths": "^2.2.1",
+    "puppeteer-core": "^18.0.5"
+  }
+}
